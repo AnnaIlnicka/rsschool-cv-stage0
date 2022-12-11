@@ -3,10 +3,10 @@
 
 ##Contacts:
 ---
-Location: Poznan, Poland
-tel: +48796788700
-e-mail: a.astaulova@gmail.com
-discord: AnnaAI#7900
+- Location: Poznan, Poland
+- tel: +48796788700
+- e-mail: a.astaulova@gmail.com
+- discord: AnnaAI#7900
 
 ##About Me:
 ---

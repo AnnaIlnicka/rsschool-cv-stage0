@@ -23,6 +23,7 @@ I've been studying programming for almost a year now. I'm still learning Java Sc
 
 ##Code Example:
 ---
+From CODEWARS:
 Create a function which answers the question "Are you playing banjo?".
 If your name starts with the letter "R" or lower case "r", you are playing banjo!
 ```
@@ -40,7 +41,8 @@ Online store in Prestashop www.artoftea.pl
 
 ##Education:
 ---
-- The Web Developer Bootcamp 2022. Colt Steel. Udemy (in the learning process)
+- University: Kyiv National University of Constraction and Architecture
+- Courses: The Web Developer Bootcamp 2022. Colt Steel. Udemy (in the learning process)
 
 ##English:
 ---
